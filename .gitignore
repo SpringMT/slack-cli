@@ -2,4 +2,4 @@
 .slack_secrets.yml
 vendor
 slack-cli
-
+pkg/*
